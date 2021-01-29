@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511878842383",
+    "firebase_url": "https://mobiledesk-16783.firebaseio.com",
+    "project_id": "mobiledesk-16783",
+    "storage_bucket": "mobiledesk-16783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511878842383:android:c5c564c71384b160a9bb7a",
+        "android_client_info": {
+          "package_name": "guilhermegomes.com.mobile_desk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511878842383-ate5t9s5ubv6rpmjm5bst06fs8lj16op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-psC2GoINJ3SbA8w9jaGyJhIQII9bnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511878842383-ate5t9s5ubv6rpmjm5bst06fs8lj16op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
