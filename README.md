@@ -1,6 +1,6 @@
-# mobile_desk
+# Mobile Desk
 
-A new Flutter application.
+Aplicativo para abertura e acompanhamento de chamados
 
 ## Getting Started
 
